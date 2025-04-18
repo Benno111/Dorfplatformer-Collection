@@ -509,6 +509,42 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
           "name": "CantoraOne-Regular.ttf"
         }
+      },
+      {
+        "file": "assets/Red Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/71ee2c8d8b72808c7f084252cd36c80c44bc07655a3729e5fe7459c634007e8a_Red Button With Shadow_Hovered.png",
+          "name": "Red Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6c6bf020fb86d99a9ecc993f8b90064d73d757bc2408050cf353c84bc36f6be2_Red Button With Shadow_Idle.png",
+          "name": "Red Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Shadow_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b9ce526450d48adedb6875043465ae168fff1f6b01dd1ff7f43b7e7c1568cc21_Red Button With Shadow_Pressed.png",
+          "name": "Red Button With Shadow_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -546,7 +582,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.26364576737708023,
+        "zoomFactor": 0.18923010380622898,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -556,13 +592,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button",
           "persistentUuid": "adb490f3-ed1e-4025-b33f-b8bc7bb6c39f",
-          "width": 358,
-          "x": 26,
+          "width": 734,
+          "x": 39,
           "y": 34,
           "zOrder": 1,
           "numberProperties": [],
@@ -579,14 +615,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button2",
           "persistentUuid": "da9b6cfa-1921-41ae-b4fa-ad2a0c291b48",
-          "width": 358,
-          "x": 22,
-          "y": 132,
+          "width": 734,
+          "x": 30,
+          "y": 226,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -602,14 +638,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button3",
           "persistentUuid": "40e4e14b-dd07-4ba8-b8e9-1e68a57b7b39",
-          "width": 375,
+          "width": 769,
           "x": 14,
-          "y": 225,
+          "y": 408,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -619,14 +655,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button4",
           "persistentUuid": "e725c13f-8f0d-42f1-b402-2d94d36bf653",
-          "width": 358,
-          "x": 23,
-          "y": 328,
+          "width": 734,
+          "x": 32,
+          "y": 609,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -636,14 +672,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button5",
           "persistentUuid": "3773ae99-68b2-4394-b1d9-6e801fef42c0",
-          "width": 386,
-          "x": 437,
-          "y": 35,
+          "width": 792,
+          "x": 881,
+          "y": 36,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -653,14 +689,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button6",
           "persistentUuid": "5db5f718-6c5c-4121-9f47-b3ddf4291e6f",
-          "width": 370,
-          "x": 445,
-          "y": 141,
+          "width": 759,
+          "x": 898,
+          "y": 243,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -670,14 +706,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button7",
           "persistentUuid": "853f646b-d908-4a57-aa8d-84c9dd4bd3f2",
-          "width": 371,
-          "x": 452,
-          "y": 231,
+          "width": 761,
+          "x": 912,
+          "y": 420,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -687,14 +723,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 69,
+          "height": 135,
           "keepRatio": true,
           "layer": "",
           "name": "Main_Button8",
           "persistentUuid": "ea63f3bc-3f0e-40dd-bdd4-6823e9d69d52",
-          "width": 370,
-          "x": 452,
-          "y": 338,
+          "width": 759,
+          "x": 912,
+          "y": 629,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -3154,15 +3190,123 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.07989336811496514,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 817,
+          "keepRatio": true,
+          "layer": "",
+          "name": "RedButtonWithShadow",
+          "persistentUuid": "52ec505b-2a8b-4df8-981d-e71793a9be4d",
+          "width": 1606,
+          "x": 5327,
+          "y": 40,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
+          "name": "RedButtonWithShadow",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 3,
+            "BottomPadding": 32,
+            "TopPadding": 32,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button With Shadow_Hovered.png",
+              "tiled": false,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button With Shadow_Idle.png",
+              "tiled": false,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "EXIT",
+              "font": "CantoraOne-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 128,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "EXIT",
+                "font": "CantoraOne-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 128,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Red Button With Shadow_Pressed.png",
+              "tiled": false,
+              "topMargin": 16,
+              "width": 192
+            }
+          }
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "RedButtonWithShadow"
+          }
+        ]
       },
       "events": [
         {
@@ -3200,8 +3344,39 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "RedButtonWithShadow",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Iframe::Delete"
+              },
+              "parameters": [
+                "",
+                "\"Main\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Untitled scene\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -3250,7 +3425,28 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
